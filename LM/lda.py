@@ -95,7 +95,7 @@ class LDA():
             rel_ids = np.argsort(-rel)
             #for j in ["D00076", "D01032", "D01350", "D02582", "D05005"]:
             #    print(np.where(rel_ids == self.file_id[j])[0][0] + 1)
-            print(np.where(rel_ids == target_id)[0][0] + 1)
+            return np.where(rel_ids == target_id)[0][0] + 1
    
 
     def retrieve_multiple(self, target_files, N):

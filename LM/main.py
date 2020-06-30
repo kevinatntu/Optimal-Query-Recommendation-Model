@@ -1,3 +1,4 @@
+import os
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
@@ -5,9 +6,9 @@ import matplotlib.pyplot as plt
 from lda import LDA
 
 if __name__ == "__main__":
-    lda = LDA(sys.argv[1], lda_weight=argv[2])
+    lda = LDA(sys.argv[1], lda_weight=float(sys.argv[2]))
 
-    with open("../data/mini_corpus_1/file-list", 'r') as f:
+    with open(os.path.join(sys.argv[1], "file-list1"), 'r') as f:
         target_files = [i.strip() for i in f.readlines()]
     result = []
     for target_file in target_files:

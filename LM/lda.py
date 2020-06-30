@@ -37,8 +37,8 @@ class LDA():
         df = np.sum(np.where(tf > 0, 1, 0), axis=1).reshape(-1, 1)        
         hfword_id = np.argsort(-df.flatten())[:50]
         tf[hfword_id] = 0
-        for i in hfword_id:
-            print(self.id_vocab[i])
+        #for i in hfword_id:
+            #print(self.id_vocab[i])
          
         return tf
 

@@ -1,5 +1,5 @@
 # Optimal-Query-Recommendation-Model
-2020 NTU WebIR Final - Team 9
+2020 NTU WebIR Final - Team 
 
 ## This repository includes four method implemented in our final project
 * In each folder

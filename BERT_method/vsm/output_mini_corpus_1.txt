@@ -1,0 +1,670 @@
+For file [../results\bert_q_inseq_1.txt], query [speed.]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 4620, 6907, 2213, 1657, 1733, 1749, 1907, 2068, 2079]
+
+For file [../results\bert_q_inseq_1.txt], query [test]
+DocID: 76
+Among 100 documents, rank 6
+Query's top 10: [2079, 1496, 2876, 5005, 4409, 76, 6907, 2153, 1657, 1733]
+
+For file [../results\bert_q_inseq_1.txt], query [detector.]
+DocID: 1032
+Among 100 documents, rank 3
+Query's top 10: [76, 5005, 1032, 6907, 2213, 1657, 1733, 1749, 1907, 2068]
+
+For file [../results\bert_q_inseq_1.txt], query [4K]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 6907, 2263, 1655, 1657, 1733, 1749, 1907, 2068, 2079]
+
+For file [../results\bert_q_inseq_1.txt], query [test]
+DocID: 5005
+Among 100 documents, rank 4
+Query's top 10: [2079, 1496, 2876, 5005, 4409, 76, 6907, 2153, 1657, 1733]
+
+For file [../results\bert_q_inseq_10.txt], query [using this card, Pepper is able to robustly detect and]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 2326, 4789, 6344, 4098, 2631, 319, 1733, 4310, 2876]
+
+For file [../results\bert_q_inseq_10.txt], query [stop signs that fool a detector. More recently, Evtimov et]
+DocID: 76
+Among 100 documents, rank 1
+Query's top 10: [76, 4784, 1457, 5005, 972, 2850, 842, 155, 6673, 3862]
+
+For file [../results\bert_q_inseq_10.txt], query [from 101 vehicle videos, our system achieved a recognition rate]
+DocID: 1032
+Among 100 documents, rank 1
+Query's top 10: [1032, 3366, 972, 883, 5754, 4784, 842, 2876, 6673, 2448]
+
+For file [../results\bert_q_inseq_10.txt], query [work across GPUs. We maintain high accuracy while reaching the]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 6673, 2079, 1749, 1556, 5061, 972, 2213, 5759, 2263]
+
+For file [../results\bert_q_inseq_10.txt], query [test time. To date, adversarial example constructions have been demonstrated]
+DocID: 5005
+Among 100 documents, rank 1
+Query's top 10: [5005, 76, 4409, 2876, 6344, 3346, 2326, 314, 5827, 5053]
+
+For file [../results\bert_q_inseq_5.txt], query [system based on deep neural]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 4789, 1454, 3824, 203, 5868, 2079, 4310, 39, 6721]
+
+For file [../results\bert_q_inseq_5.txt], query [that fools a proxy model]
+DocID: 76
+Among 100 documents, rank 18
+Query's top 10: [4784, 972, 1457, 6673, 2582, 155, 1907, 39, 2326, 4409]
+
+For file [../results\bert_q_inseq_5.txt], query [vehicle videos, our system achieved]
+DocID: 1032
+Among 100 documents, rank 1
+Query's top 10: [1032, 3366, 5754, 2263, 883, 614, 203, 6653, 1350, 2448]
+
+For file [../results\bert_q_inseq_5.txt], query [implemented our model in code,]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 4738, 5053, 5759, 203, 5805, 3346, 4977, 297, 6673]
+
+For file [../results\bert_q_inseq_5.txt], query [have been demonstrated for classifiers,]
+DocID: 5005
+Among 100 documents, rank 1
+Query's top 10: [5005, 2309, 3862, 1457, 4409, 2068, 5569, 4098, 1733, 2153]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [fast Hebbian memory, can learn]
+DocID: 39
+Among 100 documents, rank 1
+Query's top 10: [39, 1556, 1657, 6907, 2263, 883, 2582, 1236, 1907, 2448]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [that fools a proxy model]
+DocID: 76
+Among 100 documents, rank 18
+Query's top 10: [4784, 972, 1457, 6673, 2582, 155, 1907, 39, 2326, 4409]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [propose a User Behaviour Model,]
+DocID: 145
+Among 100 documents, rank 1
+Query's top 10: [145, 972, 2850, 4784, 2326, 5805, 1457, 39, 2582, 4620]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [3D global geo-spatial viewer and]
+DocID: 155
+Among 100 documents, rank 1
+Query's top 10: [155, 1733, 4977, 3907, 522, 4789, 4098, 39, 6857, 4310]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [introduce CarePre, an intelligent clinical]
+DocID: 203
+Among 100 documents, rank 1
+Query's top 10: [203, 4409, 2079, 3862, 4620, 4885, 4098, 6907, 1655, 218]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [same space by using the]
+DocID: 218
+Among 100 documents, rank 4
+Query's top 10: [6673, 1749, 4789, 218, 4953, 2896, 2079, 3824, 5005, 5053]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [transform. We examine methods for]
+DocID: 297
+Among 100 documents, rank 1
+Query's top 10: [297, 4267, 4842, 2213, 3346, 6673, 6585, 2884, 4953, 4885]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [that implements this framework for]
+DocID: 314
+Among 100 documents, rank 1
+Query's top 10: [314, 203, 6753, 5569, 6673, 4098, 2213, 4114, 2153, 4953]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [iterative decoding. We describe the]
+DocID: 319
+Among 100 documents, rank 1
+Query's top 10: [319, 6673, 1749, 5805, 2213, 4885, 145, 4842, 5053, 2079]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [data repository achieves the full]
+DocID: 395
+Among 100 documents, rank 1
+Query's top 10: [395, 6673, 1749, 6679, 1556, 2079, 2876, 5805, 5053, 2138]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [novel 3D human pose estimation]
+DocID: 522
+Among 100 documents, rank 1
+Query's top 10: [522, 4977, 3907, 4738, 155, 4310, 6585, 6721, 4885, 1655]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [setups. We consider both (simultaneous)]
+DocID: 614
+Among 100 documents, rank 1
+Query's top 10: [614, 5799, 5827, 6753, 5759, 3346, 5569, 3808, 5754, 4885]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [design stages to obtain conflict-free]
+DocID: 752
+Among 100 documents, rank 1
+Query's top 10: [752, 2876, 4765, 1907, 2582, 6344, 2326, 3346, 5827, 6301]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [joint optimization of bit allocation]
+DocID: 842
+Among 100 documents, rank 1
+Query's top 10: [842, 752, 5805, 5799, 2933, 5827, 5569, 297, 1749, 1556]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [algorithmic techniques to train this]
+DocID: 883
+Among 100 documents, rank 2
+Query's top 10: [2876, 883, 2326, 1454, 6344, 3346, 2582, 2213, 5827, 4789]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [order to compute a multimodal]
+DocID: 972
+Among 100 documents, rank 1
+Query's top 10: [972, 2326, 2876, 4784, 6344, 3346, 2582, 155, 5358, 4409]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [vehicle videos, our system achieved]
+DocID: 1032
+Among 100 documents, rank 1
+Query's top 10: [1032, 3366, 5754, 2263, 883, 614, 203, 6653, 1350, 2448]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [technique to learn shared latent]
+DocID: 1236
+Among 100 documents, rank 1
+Query's top 10: [1236, 4789, 6344, 3346, 2876, 2326, 4409, 5827, 6519, 5759]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [system based on deep neural]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 4789, 1454, 3824, 203, 5868, 2079, 4310, 39, 6721]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [search for tuning the hyperparameters]
+DocID: 1454
+Among 100 documents, rank 2
+Query's top 10: [6673, 1454, 1749, 2213, 5005, 2068, 2263, 4114, 1236, 145]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [propose an approach for optimizing]
+DocID: 1457
+Among 100 documents, rank 1
+Query's top 10: [1457, 3346, 2213, 145, 2659, 3418, 4953, 4232, 297, 3907]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [of the statistical physics-inspired method]
+DocID: 1496
+Among 100 documents, rank 3
+Query's top 10: [6673, 1749, 1496, 5805, 752, 5005, 2079, 2876, 5827, 4842]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [object allocator. DynaSOAr was designed]
+DocID: 1556
+Among 100 documents, rank 1
+Query's top 10: [1556, 4977, 4114, 1032, 2582, 2884, 2079, 3808, 2876, 3862]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [model. Our results indicate that]
+DocID: 1579
+Among 100 documents, rank 1
+Query's top 10: [1579, 2068, 395, 3060, 5827, 6753, 203, 1454, 2582, 5759]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [find that (1) 16%-66% of]
+DocID: 1586
+Among 100 documents, rank 2
+Query's top 10: [752, 1586, 5805, 5827, 297, 4259, 3060, 972, 6753, 2876]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [our approach significantly outperform related]
+DocID: 1616
+Among 100 documents, rank 1
+Query's top 10: [1616, 297, 2138, 1457, 2840, 5550, 5281, 1454, 4953, 145]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [analyze these results, suggesting future]
+DocID: 1655
+Among 100 documents, rank 1
+Query's top 10: [1655, 2068, 4267, 39, 5550, 2153, 1586, 3366, 4409, 203]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [uses historical data to learn]
+DocID: 1657
+Among 100 documents, rank 1
+Query's top 10: [1657, 2326, 2876, 3346, 6344, 2582, 4789, 2263, 5759, 1236]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [compare the learned representations to]
+DocID: 1733
+Among 100 documents, rank 1
+Query's top 10: [1733, 2876, 6673, 1749, 2326, 3346, 1236, 6344, 1655, 3862]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [extensions, including recursive and adaptive]
+DocID: 1749
+Among 100 documents, rank 1
+Query's top 10: [1749, 4789, 1733, 4098, 5053, 3808, 2631, 1556, 6857, 5358]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [free interpolants for a variant]
+DocID: 1907
+Among 100 documents, rank 1
+Query's top 10: [1907, 2850, 4765, 6673, 4784, 4267, 6585, 752, 842, 972]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [use a pre-trained deep learning]
+DocID: 2068
+Among 100 documents, rank 1
+Query's top 10: [2068, 4098, 4784, 1236, 2079, 2850, 2673, 752, 4409, 972]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [on never seen echocardiograms. Using]
+DocID: 2079
+Among 100 documents, rank 1
+Query's top 10: [2079, 2631, 2933, 319, 4885, 297, 4971, 6519, 5281, 1616]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [method, WikiM, to efficiently wikify]
+DocID: 2138
+Among 100 documents, rank 1
+Query's top 10: [2138, 3346, 2876, 6344, 2326, 2582, 6301, 1556, 2263, 4409]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [experiment we study its scalability]
+DocID: 2153
+Among 100 documents, rank 1
+Query's top 10: [2153, 3346, 4232, 2213, 6673, 4842, 972, 5061, 5754, 1457]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [of new robust computer vision]
+DocID: 2213
+Among 100 documents, rank 1
+Query's top 10: [2213, 5805, 752, 2582, 5799, 1350, 4953, 2079, 5827, 5868]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [detection on video using color-based]
+DocID: 2263
+Among 100 documents, rank 1
+Query's top 10: [2263, 2582, 4971, 3366, 883, 5061, 3346, 2079, 5550, 2068]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [classifiers are given for confirming]
+DocID: 2309
+Among 100 documents, rank 1
+Query's top 10: [2309, 6753, 3862, 5281, 1457, 1496, 6673, 145, 3346, 5718]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [propose and evaluate two MapReduce-based]
+DocID: 2326
+Among 100 documents, rank 1
+Query's top 10: [2326, 4098, 1733, 4789, 4310, 6857, 1457, 6301, 752, 2153]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [design a cyber-physical system that]
+DocID: 2448
+Among 100 documents, rank 1
+Query's top 10: [2448, 752, 4784, 155, 6673, 314, 842, 972, 4267, 39]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [implemented our model in code,]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 4738, 5053, 5759, 203, 5805, 3346, 4977, 297, 6673]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [by the discriminatively-trained speaker encoder]
+DocID: 2631
+Among 100 documents, rank 1
+Query's top 10: [2631, 1749, 6673, 5358, 614, 2068, 4259, 5005, 5053, 2876]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [the bag. Our method can]
+DocID: 2659
+Among 100 documents, rank 1
+Query's top 10: [2659, 1749, 6673, 5805, 2876, 1236, 2263, 5005, 5053, 4842]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [with a new evaluation protocol]
+DocID: 2673
+Among 100 documents, rank 1
+Query's top 10: [2673, 972, 2582, 4977, 5061, 4784, 6673, 2850, 1236, 2326]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [found significant differences among NFRs]
+DocID: 2840
+Among 100 documents, rank 1
+Query's top 10: [2840, 1579, 2309, 6679, 2079, 4738, 5550, 39, 522, 2068]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [results suggests that the PDCGM]
+DocID: 2850
+Among 100 documents, rank 2
+Query's top 10: [6673, 2850, 1749, 2213, 6653, 4885, 5805, 2876, 752, 1586]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [read-speech data from iOS is]
+DocID: 2876
+Among 100 documents, rank 1
+Query's top 10: [2876, 2631, 145, 395, 2326, 3862, 2138, 4259, 155, 1657]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [application to perform the thinning]
+DocID: 2884
+Among 100 documents, rank 1
+Query's top 10: [2884, 2876, 6673, 1749, 2326, 3346, 6344, 4885, 2213, 6519]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [We find that users prefer]
+DocID: 2896
+Among 100 documents, rank 1
+Query's top 10: [2896, 155, 5805, 314, 4977, 5759, 6673, 972, 4885, 2213]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [We further observe that the]
+DocID: 2933
+Among 100 documents, rank 14
+Query's top 10: [6673, 1749, 1457, 2213, 4885, 5805, 972, 5358, 5759, 4842]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [mathematical model to predict pedestrian]
+DocID: 3060
+Among 100 documents, rank 1
+Query's top 10: [3060, 2326, 6344, 2876, 3346, 5827, 2582, 5759, 314, 6679]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [proposes a local approach based]
+DocID: 3346
+Among 100 documents, rank 2
+Query's top 10: [4784, 3346, 4977, 842, 2884, 972, 5754, 4259, 1457, 5805]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [model can thus be trained]
+DocID: 3366
+Among 100 documents, rank 1
+Query's top 10: [3366, 2631, 4098, 4114, 3418, 218, 2840, 2068, 6301, 5827]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [propose a modelbased approach to]
+DocID: 3418
+Among 100 documents, rank 4
+Query's top 10: [2326, 2876, 3346, 3418, 1457, 4784, 2582, 6344, 4409, 155]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [consider port--Hamiltonian systems and a]
+DocID: 3808
+Among 100 documents, rank 1
+Query's top 10: [3808, 4098, 6653, 4784, 5061, 1733, 4789, 842, 5569, 972]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [reaches a higher final accuracy]
+DocID: 3824
+Among 100 documents, rank 1
+Query's top 10: [3824, 972, 4784, 4267, 2213, 4977, 1457, 5061, 2079, 2582]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [neural network (RNN) and apply]
+DocID: 3862
+Among 100 documents, rank 1
+Query's top 10: [3862, 4789, 4310, 1733, 4098, 2631, 6857, 1657, 218, 2326]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [data-driven approach, generating sets of]
+DocID: 3907
+Among 100 documents, rank 2
+Query's top 10: [5805, 3907, 752, 4953, 297, 6721, 4765, 5827, 6673, 4842]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [pre-trained models to accelerate inference]
+DocID: 4098
+Among 100 documents, rank 1
+Query's top 10: [4098, 2068, 2326, 6344, 2876, 3346, 6301, 4310, 2153, 5827]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [study reveals that end-to-end image]
+DocID: 4114
+Among 100 documents, rank 1
+Query's top 10: [4114, 6721, 4259, 2213, 3824, 2876, 2659, 2582, 2326, 6344]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [Our approach uses a statistical]
+DocID: 4232
+Among 100 documents, rank 8
+Query's top 10: [6673, 4784, 1457, 5805, 2582, 972, 4977, 4232, 1616, 2850]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [which are optimized for best]
+DocID: 4259
+Among 100 documents, rank 2
+Query's top 10: [6653, 4259, 2631, 5718, 1496, 3366, 2068, 6673, 145, 4114]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [to construct a customizable XML]
+DocID: 4267
+Among 100 documents, rank 1
+Query's top 10: [4267, 2326, 2876, 6344, 3346, 4784, 2582, 4738, 155, 5358]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [induces structured shrinkage priors on]
+DocID: 4310
+Among 100 documents, rank 1
+Query's top 10: [4310, 3824, 972, 2213, 1749, 4765, 1733, 4789, 4885, 4971]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [PnP-AdaNet. Moreover, we introduce a]
+DocID: 4409
+Among 100 documents, rank 1
+Query's top 10: [4409, 2884, 972, 842, 4784, 6673, 155, 4977, 5754, 5805]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [that the proposed algorithm achieves]
+DocID: 4620
+Among 100 documents, rank 4
+Query's top 10: [6673, 1749, 522, 4620, 972, 5759, 4259, 6301, 1556, 2213]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [suggest the effectiveness of MT]
+DocID: 4738
+Among 100 documents, rank 1
+Query's top 10: [4738, 1749, 5805, 752, 6673, 5005, 2079, 2840, 2876, 5827]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [Finally, we give a simple]
+DocID: 4765
+Among 100 documents, rank 1
+Query's top 10: [4765, 972, 842, 4784, 6673, 155, 4977, 5281, 2933, 5754]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [approach for learning to translate]
+DocID: 4784
+Among 100 documents, rank 7
+Query's top 10: [3346, 6344, 2213, 2876, 2326, 2068, 4784, 1032, 5718, 1733]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [proof-of-concept wavetable synthesizer that uses]
+DocID: 4789
+Among 100 documents, rank 1
+Query's top 10: [4789, 752, 5805, 5053, 5827, 5799, 297, 3060, 4842, 39]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [uses an effective surrogate-based method]
+DocID: 4842
+Among 100 documents, rank 1
+Query's top 10: [4842, 2263, 1657, 5805, 4310, 2582, 1616, 4259, 3907, 4789]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [interface and demonstrate a prototype]
+DocID: 4885
+Among 100 documents, rank 1
+Query's top 10: [4885, 4098, 4784, 1733, 4789, 842, 314, 972, 6653, 5061]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [that TMP-RL approach significantly improves]
+DocID: 4953
+Among 100 documents, rank 1
+Query's top 10: [4953, 1457, 1616, 297, 2138, 6301, 4259, 145, 2213, 2659]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [missed detection probabilities are incorporated]
+DocID: 4971
+Among 100 documents, rank 1
+Query's top 10: [4971, 2582, 3346, 2263, 5550, 3824, 3366, 3907, 3060, 4620]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [since they use local optimisation,]
+DocID: 4977
+Among 100 documents, rank 1
+Query's top 10: [4977, 2896, 3346, 1733, 2850, 5754, 842, 2263, 2448, 4784]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [have been demonstrated for classifiers,]
+DocID: 5005
+Among 100 documents, rank 1
+Query's top 10: [5005, 2309, 3862, 1457, 4409, 2068, 5569, 4098, 1733, 2153]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [non-tracking services. We implemented a]
+DocID: 5053
+Among 100 documents, rank 1
+Query's top 10: [5053, 842, 395, 972, 4784, 6673, 1236, 155, 4977, 5754]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [improve retrieval efficiency. One approach]
+DocID: 5061
+Among 100 documents, rank 1
+Query's top 10: [5061, 3907, 1657, 2840, 395, 4259, 4232, 4784, 3366, 5759]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [we obtain simple proofs of]
+DocID: 5281
+Among 100 documents, rank 3
+Query's top 10: [752, 5805, 5281, 5827, 4765, 4885, 4842, 395, 2079, 4953]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [examine how different types of]
+DocID: 5358
+Among 100 documents, rank 1
+Query's top 10: [5358, 752, 5805, 297, 2309, 39, 5827, 4842, 5005, 1032]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [to verify in future studies]
+DocID: 5550
+Among 100 documents, rank 2
+Query's top 10: [3346, 5550, 4409, 1655, 5759, 2326, 2876, 6344, 1454, 6673]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [correlated. We use Markov Random]
+DocID: 5569
+Among 100 documents, rank 1
+Query's top 10: [5569, 1457, 395, 1454, 972, 4977, 5061, 4885, 2884, 5754]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [algorithm, called KQ-Learning, converges with]
+DocID: 5718
+Among 100 documents, rank 1
+Query's top 10: [5718, 4738, 3824, 1236, 1657, 1733, 6907, 2673, 4620, 5061]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [privacy-preserving learning mechanism for charging]
+DocID: 5754
+Among 100 documents, rank 1
+Query's top 10: [5754, 5718, 2068, 1657, 4953, 3824, 5053, 4267, 145, 6673]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [is capable of detecting arbitrarily]
+DocID: 5759
+Among 100 documents, rank 1
+Query's top 10: [5759, 752, 5805, 3862, 1749, 2840, 5569, 4885, 5827, 297]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [robust computational performance. A polynomial]
+DocID: 5799
+Among 100 documents, rank 1
+Query's top 10: [5799, 1457, 4784, 972, 4765, 2850, 1907, 218, 2933, 5805]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [consolidation, our combined brownout approach]
+DocID: 5805
+Among 100 documents, rank 1
+Query's top 10: [5805, 972, 5053, 2263, 6721, 1556, 1616, 4259, 297, 1733]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [necessary to obtain a constant]
+DocID: 5827
+Among 100 documents, rank 1
+Query's top 10: [5827, 2326, 2582, 2876, 2850, 6344, 3346, 4784, 1907, 155]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [we study the suitability of]
+DocID: 5868
+Among 100 documents, rank 10
+Query's top 10: [5805, 6673, 1749, 752, 2213, 4842, 4885, 2079, 5005, 5868]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [adaptation experiments using both synthetic]
+DocID: 6301
+Among 100 documents, rank 1
+Query's top 10: [6301, 6907, 4409, 5759, 1655, 6857, 2079, 218, 2673, 2309]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [conjecture by presenting a family]
+DocID: 6344
+Among 100 documents, rank 1
+Query's top 10: [6344, 4977, 4784, 972, 2850, 6673, 842, 2326, 39, 1236]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [trivial" may provide an intuitive]
+DocID: 6519
+Among 100 documents, rank 1
+Query's top 10: [6519, 3824, 203, 614, 6653, 155, 5805, 5358, 6907, 4114]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [stronger claim that not only]
+DocID: 6585
+Among 100 documents, rank 1
+Query's top 10: [6585, 2153, 2659, 3808, 1457, 883, 4842, 1616, 4971, 297]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [eight major anomalies which have]
+DocID: 6653
+Among 100 documents, rank 1
+Query's top 10: [6653, 4409, 6721, 4738, 2448, 3907, 5053, 3808, 2582, 4098]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [information sets; normal realizations of]
+DocID: 6673
+Among 100 documents, rank 1
+Query's top 10: [6673, 752, 5805, 297, 5799, 5281, 5827, 1749, 6721, 883]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [we evaluate the ability to]
+DocID: 6679
+Among 100 documents, rank 15
+Query's top 10: [6673, 2326, 2876, 3346, 1749, 1616, 2213, 6344, 5759, 6301]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [trainable neural network, which uses]
+DocID: 6721
+Among 100 documents, rank 1
+Query's top 10: [6721, 4789, 218, 1454, 1350, 3862, 2673, 4310, 3824, 1657]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [and the classical minimum spanning]
+DocID: 6753
+Among 100 documents, rank 1
+Query's top 10: [6753, 1749, 4789, 5827, 1733, 6673, 4098, 1236, 1496, 4765]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [we demonstrate validation of the]
+DocID: 6857
+Among 100 documents, rank 39
+Query's top 10: [5805, 6673, 1749, 752, 2079, 4885, 5005, 4842, 2213, 2876]
+
+For file [../results\bert_q_inseq_5_mini1.txt], query [our algorithm may be able]
+DocID: 6907
+Among 100 documents, rank 1
+Query's top 10: [6907, 6653, 1350, 2631, 614, 5805, 5358, 4232, 6519, 4971]
+
+For file [../results\bert_q_random_5000_1.txt], query [speed.]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 4620, 6907, 2213, 1657, 1733, 1749, 1907, 2068, 2079]
+
+For file [../results\bert_q_random_5000_1.txt], query [test]
+DocID: 76
+Among 100 documents, rank 6
+Query's top 10: [2079, 1496, 2876, 5005, 4409, 76, 6907, 2153, 1657, 1733]
+
+For file [../results\bert_q_random_5000_1.txt], query [detector.]
+DocID: 1032
+Among 100 documents, rank 3
+Query's top 10: [76, 5005, 1032, 6907, 2213, 1657, 1733, 1749, 1907, 2068]
+
+For file [../results\bert_q_random_5000_1.txt], query [4K]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 6907, 2263, 1655, 1657, 1733, 1749, 1907, 2068, 2079]
+
+For file [../results\bert_q_random_5000_1.txt], query [test]
+DocID: 5005
+Among 100 documents, rank 4
+Query's top 10: [2079, 1496, 2876, 5005, 4409, 76, 6907, 2153, 1657, 1733]
+
+For file [../results\bert_q_random_5000_10.txt], query [object recognition neural networks. system be run Backpack to and]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 4789, 2876, 1032, 1556, 4310, 6344, 2582, 4098, 522]
+
+For file [../results\bert_q_random_5000_10.txt], query [test that we recently, et et detector. we of robust]
+DocID: 76
+Among 100 documents, rank 1
+Query's top 10: [76, 5805, 2213, 4842, 752, 5005, 4885, 1032, 2079, 842]
+
+For file [../results\bert_q_random_5000_10.txt], query [a many applications. based robust results dataset contains our trial]
+DocID: 1032
+Among 100 documents, rank 1
+Query's top 10: [1032, 6673, 1655, 4784, 2850, 972, 2673, 3366, 1236, 1907]
+
+For file [../results\bert_q_random_5000_10.txt], query [such pipeline which and refined the maintain of on video.]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 1749, 752, 5805, 4789, 883, 1733, 5005, 6673, 2213]
+
+For file [../results\bert_q_random_5000_10.txt], query [been test have adversarial successfully is attacking which sequences that]
+DocID: 5005
+Among 100 documents, rank 1
+Query's top 10: [5005, 76, 4409, 1749, 4784, 3366, 2153, 2079, 2659, 203]
+
+For file [../results\bert_q_random_5000_10_topk.txt], query [adversarial 5 hand, and deep Machine described such (YOLO considerably]
+DocID: Top k
+Among 100 documents, MAP = 0.9266666666666665
+Each ranking: [1, 5, 0, 4, 2]
+
+For file [../results\bert_q_random_5000_1_topk.txt], query [(LPs)]
+DocID: Top k
+Among 100 documents, MAP = 0.2808647692431993
+Each ranking: [28, 0, 44, 16, 52]
+
+For file [../results\bert_q_random_5000_5.txt], query [the deep real-time, use battery.]
+DocID: 1350
+Among 100 documents, rank 1
+Query's top 10: [1350, 1749, 6673, 2079, 5005, 2876, 2896, 5550, 2068, 3862]
+
+For file [../results\bert_q_random_5000_5.txt], query [test adversarial construction this accurately]
+DocID: 76
+Among 100 documents, rank 2
+Query's top 10: [5005, 76, 4409, 4784, 2876, 3808, 2079, 2673, 1496, 1457]
+
+For file [../results\bert_q_random_5000_5.txt], query [robust based object dataset dataset]
+DocID: 1032
+Among 100 documents, rank 1
+Query's top 10: [1032, 4738, 3907, 1655, 1556, 522, 4114, 6721, 2659, 1454]
+
+For file [../results\bert_q_random_5000_5.txt], query [method refined the model GPUs.]
+DocID: 2582
+Among 100 documents, rank 1
+Query's top 10: [2582, 6673, 1749, 1556, 4842, 1236, 2079, 5005, 2876, 5053]
+
+For file [../results\bert_q_random_5000_5.txt], query [to test a must adversarial]
+DocID: 5005
+Among 100 documents, rank 1
+Query's top 10: [5005, 2876, 4409, 2326, 4784, 76, 6344, 3346, 2582, 155]
+
+For file [../results\bert_q_random_5000_5_topk.txt], query [Jetson Jetson many objects -]
+DocID: Top k
+Among 100 documents, MAP = 0.4155714285714286
+Each ranking: [34, 4, 0, 24, 7]
+
+For file [../results\bert_q_random_500_5_topk.txt], query [system Recognition We recently outperforming]
+DocID: Top k
+Among 100 documents, MAP = 0.43063829787234037
+Each ranking: [8, 0, 2, 93, 39]
+

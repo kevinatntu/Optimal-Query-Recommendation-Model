@@ -1,0 +1,170 @@
+For file [../results\bert_q_inseq_1.txt], query [speed.]
+DocID: 1350
+Among 7000 documents, rank 55
+Query's top 10: [4502, 3769, 527, 3482, 2021, 5803, 6973, 2740, 4059, 4983]
+
+For file [../results\bert_q_inseq_1.txt], query [test]
+DocID: 76
+Among 7000 documents, rank 383
+Query's top 10: [1282, 4217, 3171, 264, 6824, 1654, 2645, 5503, 1672, 5079]
+
+For file [../results\bert_q_inseq_1.txt], query [detector.]
+DocID: 1032
+Among 7000 documents, rank 59
+Query's top 10: [1559, 5663, 76, 6296, 3010, 6586, 6911, 3746, 3647, 1404]
+
+For file [../results\bert_q_inseq_1.txt], query [4K]
+DocID: 2582
+Among 7000 documents, rank 1
+Query's top 10: [2582, 5938, 3086, 7000, 2335, 2326, 2327, 2328, 2329, 2330]
+
+For file [../results\bert_q_inseq_1.txt], query [test]
+DocID: 5005
+Among 7000 documents, rank 226
+Query's top 10: [1282, 4217, 3171, 264, 6824, 1654, 2645, 5503, 1672, 5079]
+
+For file [../results\bert_q_inseq_10.txt], query [using this card, Pepper is able to robustly detect and]
+DocID: 1350
+Among 7000 documents, rank 1
+Query's top 10: [1350, 6276, 6409, 2163, 6818, 6705, 6002, 4081, 5988, 6269]
+
+For file [../results\bert_q_inseq_10.txt], query [stop signs that fool a detector. More recently, Evtimov et]
+DocID: 76
+Among 7000 documents, rank 1
+Query's top 10: [76, 4430, 1225, 3726, 5364, 4983, 3518, 6911, 5498, 693]
+
+For file [../results\bert_q_inseq_10.txt], query [from 101 vehicle videos, our system achieved a recognition rate]
+DocID: 1032
+Among 7000 documents, rank 1
+Query's top 10: [1032, 4678, 615, 1248, 2262, 2202, 2546, 368, 2352, 2088]
+
+For file [../results\bert_q_inseq_10.txt], query [work across GPUs. We maintain high accuracy while reaching the]
+DocID: 2582
+Among 7000 documents, rank 1
+Query's top 10: [2582, 2572, 6864, 730, 832, 3909, 465, 4183, 6079, 5356]
+
+For file [../results\bert_q_inseq_10.txt], query [test time. To date, adversarial example constructions have been demonstrated]
+DocID: 5005
+Among 7000 documents, rank 1
+Query's top 10: [5005, 76, 2041, 5082, 3033, 264, 5714, 4409, 3372, 2108]
+
+For file [../results\bert_q_inseq_5.txt], query [system based on deep neural]
+DocID: 1350
+Among 7000 documents, rank 4
+Query's top 10: [5548, 5631, 2152, 1350, 3316, 1681, 6201, 576, 6203, 6223]
+
+For file [../results\bert_q_inseq_5.txt], query [that fools a proxy model]
+DocID: 76
+Among 7000 documents, rank 21
+Query's top 10: [160, 5748, 4579, 4949, 3558, 2619, 22, 6837, 6288, 3569]
+
+For file [../results\bert_q_inseq_5.txt], query [vehicle videos, our system achieved]
+DocID: 1032
+Among 7000 documents, rank 2
+Query's top 10: [615, 1032, 3404, 3586, 6886, 2597, 2202, 1248, 182, 3990]
+
+For file [../results\bert_q_inseq_5.txt], query [implemented our model in code,]
+DocID: 2582
+Among 7000 documents, rank 5
+Query's top 10: [1042, 6876, 6518, 5993, 2582, 1232, 3200, 6483, 2178, 916]
+
+For file [../results\bert_q_inseq_5.txt], query [have been demonstrated for classifiers,]
+DocID: 5005
+Among 7000 documents, rank 8
+Query's top 10: [63, 3348, 3643, 5272, 3155, 566, 5693, 5005, 5908, 5406]
+
+For file [../results\bert_q_random_5000_1.txt], query [speed.]
+DocID: 1350
+Among 7000 documents, rank 55
+Query's top 10: [4502, 3769, 527, 3482, 2021, 5803, 6973, 2740, 4059, 4983]
+
+For file [../results\bert_q_random_5000_1.txt], query [test]
+DocID: 76
+Among 7000 documents, rank 383
+Query's top 10: [1282, 4217, 3171, 264, 6824, 1654, 2645, 5503, 1672, 5079]
+
+For file [../results\bert_q_random_5000_1.txt], query [detector.]
+DocID: 1032
+Among 7000 documents, rank 59
+Query's top 10: [1559, 5663, 76, 6296, 3010, 6586, 6911, 3746, 3647, 1404]
+
+For file [../results\bert_q_random_5000_1.txt], query [4K]
+DocID: 2582
+Among 7000 documents, rank 1
+Query's top 10: [2582, 5938, 3086, 7000, 2335, 2326, 2327, 2328, 2329, 2330]
+
+For file [../results\bert_q_random_5000_1.txt], query [test]
+DocID: 5005
+Among 7000 documents, rank 226
+Query's top 10: [1282, 4217, 3171, 264, 6824, 1654, 2645, 5503, 1672, 5079]
+
+For file [../results\bert_q_random_5000_10.txt], query [object recognition neural networks. system be run Backpack to and]
+DocID: 1350
+Among 7000 documents, rank 1
+Query's top 10: [1350, 2230, 5442, 5840, 3871, 2091, 2001, 1614, 4789, 698]
+
+For file [../results\bert_q_random_5000_10.txt], query [test that we recently, et et detector. we of robust]
+DocID: 76
+Among 7000 documents, rank 2
+Query's top 10: [4625, 76, 3518, 1949, 6002, 4864, 4430, 6517, 3323, 3277]
+
+For file [../results\bert_q_random_5000_10.txt], query [a many applications. based robust results dataset contains our trial]
+DocID: 1032
+Among 7000 documents, rank 1
+Query's top 10: [1032, 6919, 1386, 3619, 2744, 2520, 6256, 4322, 1664, 1864]
+
+For file [../results\bert_q_random_5000_10.txt], query [such pipeline which and refined the maintain of on video.]
+DocID: 2582
+Among 7000 documents, rank 6
+Query's top 10: [737, 4303, 5555, 3439, 2502, 2582, 2036, 3521, 6680, 2064]
+
+For file [../results\bert_q_random_5000_10.txt], query [been test have adversarial successfully is attacking which sequences that]
+DocID: 5005
+Among 7000 documents, rank 1
+Query's top 10: [5005, 2973, 76, 4560, 6379, 2353, 1766, 1161, 3579, 3582]
+
+For file [../results\bert_q_random_5000_10_topk.txt], query [adversarial 5 hand, and deep Machine described such (YOLO considerably]
+DocID: Top k
+Among 7000 documents, MAP = 0.5266940853897376
+Each ranking: [3, 45, 0, 36, 2]
+
+For file [../results\bert_q_random_5000_1_topk.txt], query [(LPs)]
+DocID: Top k
+Among 7000 documents, MAP = 0.20197995242879457
+Each ranking: [2402, 0, 2746, 312, 6207]
+
+For file [../results\bert_q_random_5000_5.txt], query [the deep real-time, use battery.]
+DocID: 1350
+Among 7000 documents, rank 2
+Query's top 10: [6680, 1350, 1567, 3439, 5777, 5356, 4744, 2893, 5692, 5152]
+
+For file [../results\bert_q_random_5000_5.txt], query [test adversarial construction this accurately]
+DocID: 76
+Among 7000 documents, rank 2
+Query's top 10: [5005, 76, 6718, 3120, 586, 4560, 3934, 2041, 869, 5826]
+
+For file [../results\bert_q_random_5000_5.txt], query [robust based object dataset dataset]
+DocID: 1032
+Among 7000 documents, rank 2
+Query's top 10: [1199, 1032, 1948, 597, 991, 1070, 6782, 2491, 6972, 1674]
+
+For file [../results\bert_q_random_5000_5.txt], query [method refined the model GPUs.]
+DocID: 2582
+Among 7000 documents, rank 1
+Query's top 10: [2582, 738, 737, 5417, 4744, 3085, 5840, 5809, 2056, 5479]
+
+For file [../results\bert_q_random_5000_5.txt], query [to test a must adversarial]
+DocID: 5005
+Among 7000 documents, rank 2
+Query's top 10: [3102, 5005, 6888, 2766, 3934, 1451, 5152, 3710, 4434, 5177]
+
+For file [../results\bert_q_random_5000_5_topk.txt], query [Jetson Jetson many objects -]
+DocID: Top k
+Among 7000 documents, MAP = 0.2045973536480541
+Each ranking: [2853, 302, 0, 1816, 218]
+
+For file [../results\bert_q_random_500_5_topk.txt], query [system Recognition We recently outperforming]
+DocID: Top k
+Among 7000 documents, MAP = 0.20565767781379996
+Each ranking: [463, 0, 101, 6533, 2758]
+

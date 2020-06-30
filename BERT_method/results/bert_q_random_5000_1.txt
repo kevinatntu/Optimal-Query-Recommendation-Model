@@ -1,0 +1,5 @@
+1350 speed.
+76 test
+1032 detector.
+2582 4K
+5005 test

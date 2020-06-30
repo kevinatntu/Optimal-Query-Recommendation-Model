@@ -1,0 +1,5 @@
+1350 using this card, Pepper is able to robustly detect and
+76 stop signs that fool a detector. More recently, Evtimov et
+1032 from 101 vehicle videos, our system achieved a recognition rate
+2582 work across GPUs. We maintain high accuracy while reaching the
+5005 test time. To date, adversarial example constructions have been demonstrated
